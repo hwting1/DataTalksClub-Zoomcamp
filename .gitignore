@@ -21,3 +21,4 @@ mage_data/
 secrets/
 terraform.tfstate
 terraform.tfstate.backup
+workspace/
