@@ -1,2 +1,6 @@
-*.parquet.brotli filter=lfs diff=lfs merge=lfs -text
-*.parquet filter=lfs diff=lfs merge=lfs -text
+yellow-2023-04.parquet filter=lfs diff=lfs merge=lfs -text
+stocks_df_combined_2024_05_07.parquet.brotli filter=lfs diff=lfs merge=lfs -text
+yellow_tripdata_2023-01.parquet filter=lfs diff=lfs merge=lfs -text
+yellow_tripdata_2023-02.parquet filter=lfs diff=lfs merge=lfs -text
+yellow_tripdata_2023-03.parquet filter=lfs diff=lfs merge=lfs -text
+yellow-2023-03.parquet filter=lfs diff=lfs merge=lfs -text
