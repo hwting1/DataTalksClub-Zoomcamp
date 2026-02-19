@@ -5,3 +5,5 @@ mlruns/
 mlartifacts/
 .DS_Store
 .cache/
+logs/
+.bruin.yml
